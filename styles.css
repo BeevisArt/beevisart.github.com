@@ -59,8 +59,7 @@ a.visiting {
     align-items: center;
 }
 .about img {
-    height: 25vw;
-    width: 50vh;
+    margin-right: 3vh;
 }
 
 .big { 
